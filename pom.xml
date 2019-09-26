@@ -24,7 +24,8 @@
     </properties>
 
     <modules>
-        <module>mes-depenceies</module>
+        <module>mes-dependencies</module>
+        <module>mes-consumer</module>
         <module>mes-provider</module>
     </modules>
 
